@@ -6,9 +6,9 @@
 </p>
 </div>
 
-# Backend - JavaScript
+# Backend - Python
 
-This repository contains programs written for the Backend - JavaScript track at ALX Africa. In these projects, which began occurring in month 9 of the year one curriculum.
+This repository contains programs written for the Backend - Python track at ALX Africa. In these projects, which began occurring in month 9 of the year one curriculum.
 
 
 ## Author :
